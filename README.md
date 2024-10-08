@@ -18,5 +18,5 @@
  
 <div> 
   <a href="https://www.instagram.com/elvis_medeiros737/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=blue" target="_blank"></a> 
+ <a href="https://github.com/ElvisDev26" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=blue" target="_blank"></a> 
 </div>
